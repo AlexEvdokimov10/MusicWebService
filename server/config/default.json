@@ -1,0 +1,7 @@
+{
+  "serverPort":27017,
+  "dbUrl": "mongodb://Remns:1q2w3e4r@cluster0-shard-00-00.wm1fy.mongodb.net:27017,cluster0-shard-00-01.wm1fy.mongodb.net:27017,cluster0-shard-00-02.wm1fy.mongodb.net:27017/?ssl=true&replicaSet=atlas-xpn6nq-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "musicPath": "D:\\Курсова робота\\server\\musics",
+  "musicLibrary":"D:\\Курсова робота\\server\\trackslists"
+}
